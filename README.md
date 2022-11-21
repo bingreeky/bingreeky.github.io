@@ -1,6 +1,6 @@
 # BinGreeky
 
-<img style="float: right;" src="./src/head.jpg" width="150" height="150"/>
+<img style="float: right;" src="./src/head.jpg" width="120" height="120"/>
 
 <font size=2>
 Undergraduate Stuent
