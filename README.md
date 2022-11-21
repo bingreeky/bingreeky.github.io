@@ -1,10 +1,10 @@
 # BinGreeky
 
+<img style="float: right;" src="./src/head.jpg" width="150" height="150"/>
 
 <font size=2>
 Undergraduate Stuent
-
-<img style="float: right;" src="./src/head.jpg" width="150" height="150"/>
+<br />
 
 Tongji University, Shanghai
 </font>
