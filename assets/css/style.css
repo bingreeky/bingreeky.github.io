@@ -174,7 +174,8 @@ footer { width: 232px; float: left; position: fixed; bottom: 30px; -webkit-font-
 .bibref { font-size: 70%; margin-top: 10px; margin-left: 0px; display: none; font-family: monospace; }
 
 nav ul {
-  height: 300px;
+  /* height: 300px; */
+  max-height: 300px;
   width: 100%;
 }
 
