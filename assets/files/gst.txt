@@ -1,0 +1,8 @@
+@misc{zhang2024heads,
+      title={Two Heads Are Better Than One: Boosting Graph Sparse Training via Semantic and Topological Awareness}, 
+      author={Guibin Zhang and Yanwei Yue and Kun Wang and Junfeng Fang and Yongduo Sui and Kai Wang and Yuxuan Liang and Dawei Cheng and Shirui Pan and Tianlong Chen},
+      year={2024},
+      eprint={2402.01242},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
