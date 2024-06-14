@@ -175,7 +175,7 @@ footer { width: 232px; float: left; position: fixed; bottom: 30px; -webkit-font-
 
 nav ul {
   /* height: 300px; */
-  max-height: 300px;
+  max-height: 250px;
   width: 92%;
 }
 
