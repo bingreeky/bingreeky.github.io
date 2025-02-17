@@ -1,0 +1,6 @@
+@inproceedings{wang2024nuwa,
+  title = {NuwaDynamics: Discovering and Updating in Causal Spatio-Temporal Modeling},
+  author = {Wang, Kun and Wu, Hao and Duan, Yifan and Zhang, Guibin and Wang, Kai and Peng, Xiaojiang and Zheng, Yu and Liang*, Yuxuan and Wang*, Yang},
+  booktitle = {The International Conference on Learning Representations},
+  year = {2024}
+}

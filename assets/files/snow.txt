@@ -1,0 +1,6 @@
+@article{wang2023snowflake,
+  title={The snowflake hypothesis: Training deep GNN with one node one receptive field},
+  author={Wang, Kun and Li, Guohao and Wang, Shilong and Zhang, Guibin and Wang, Kai and You, Yang and Peng, Xiaojiang and Liang, Yuxuan and Wang, Yang},
+  journal={arXiv preprint arXiv:2308.10051},
+  year={2023}
+}
