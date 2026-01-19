@@ -1,0 +1,93 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: #ffffff;
+  color: #111111;
+  font-family: Garamond, "Times New Roman", serif;
+  line-height: 1.6;
+}
+
+.page {
+  max-width: 760px;
+  padding: 48px 24px 64px;
+  margin: 0 auto;
+}
+
+.header h1 {
+  margin: 0 0 6px;
+  font-size: 2.1rem;
+  font-weight: 600;
+}
+
+.subtitle,
+.contact,
+.links {
+  margin: 0 0 8px;
+  font-size: 1rem;
+}
+
+.links a {
+  color: #111111;
+  text-decoration: none;
+  border-bottom: 1px solid #111111;
+}
+
+.links a:hover {
+  opacity: 0.7;
+}
+
+.sep {
+  margin: 0 8px;
+}
+
+section {
+  margin-top: 28px;
+}
+
+h2 {
+  font-size: 1.2rem;
+  margin: 0 0 10px;
+  font-weight: 600;
+}
+
+ul,
+ol {
+  margin: 0;
+  padding-left: 18px;
+}
+
+.pubs li {
+  margin-bottom: 10px;
+}
+
+.pubs a {
+  color: #111111;
+  text-decoration: none;
+  border-bottom: 1px solid #111111;
+}
+
+.pubs a:hover {
+  opacity: 0.7;
+}
+
+.pdf-link {
+  background: #45b7c2;
+  color: #ffffff !important;
+  border-bottom: none;
+  padding: 1px 6px;
+  border-radius: 0;
+  font-size: 0.95rem;
+}
+
+.pdf-link:hover {
+  opacity: 0.85;
+}
+
+.footer {
+  margin-top: 40px;
+  font-size: 0.95rem;
+  color: #444444;
+}
